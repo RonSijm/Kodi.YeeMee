@@ -1,0 +1,506 @@
+# Kodi Media Center language file
+# Addon Name: YeeMee
+# Addon id: service.yeemee
+# Addon Provider: Dalibor Lanik
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Addons\n"
+"Report-Msgid-Bugs-To: https://forum.kodi.tv/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: Team-Kodi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sr_RS\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgctxt "#32000"
+msgid "YeeMee Service"
+msgstr "YeeMee Сервис"
+
+msgctxt "#32001"
+msgid "IP Addresses"
+msgstr "IP Адреса"
+
+msgctxt "#32002"
+msgid "On video play"
+msgstr "Видео пуштен"
+
+msgctxt "#32003"
+msgid "On video stop"
+msgstr "Видео заустављен"
+
+msgctxt "#32004"
+msgid "On video pause"
+msgstr "Видео паузиран"
+
+msgctxt "#32005"
+msgid "Options"
+msgstr "Могућности"
+
+msgctxt "#32006"
+msgid "Testing"
+msgstr "Тестирање"
+
+msgctxt "#32007"
+msgid "Ambi options"
+msgstr "Амби могућности"
+
+msgctxt "#32008"
+msgid "On saver start"
+msgstr "Старт сејвера"
+
+msgctxt "#32009"
+msgid "On saver stop"
+msgstr "Крај сејвера"
+
+msgctxt "#32020"
+msgid "Bulbs"
+msgstr "Сијалице"
+
+msgctxt "#32021"
+msgid "Bulb 1"
+msgstr "Сијалица 1"
+
+msgctxt "#32022"
+msgid "Bulb 2"
+msgstr "Сијалица 2"
+
+msgctxt "#32023"
+msgid "Bulb 3"
+msgstr "Сијалица 3"
+
+msgctxt "#32024"
+msgid "Bulb 4"
+msgstr "Сијалица 4"
+
+msgctxt "#32025"
+msgid "Bulb 5"
+msgstr "Сијалица 5"
+
+msgctxt "#32026"
+msgid "Bulb 6"
+msgstr "Сијалица 6"
+
+msgctxt "#32027"
+msgid "Bulb 7"
+msgstr "Сијалица 7"
+
+msgctxt "#32028"
+msgid "Bulb 8"
+msgstr "Сијалица 8"
+
+msgctxt "#32031"
+msgid "Bulb 1 bg"
+msgstr "Сијалица 1 позадина"
+
+msgctxt "#32032"
+msgid "Bulb 2 bg"
+msgstr "Сијалица 2 позадина"
+
+msgctxt "#32033"
+msgid "Bulb 3 bg"
+msgstr "Сијалица 3 позадина"
+
+msgctxt "#32034"
+msgid "Bulb 4 bg"
+msgstr "Сијалица 4 позадина"
+
+msgctxt "#32035"
+msgid "Bulb 5 bg"
+msgstr "Сијалица 5 позадина"
+
+msgctxt "#32036"
+msgid "Bulb 6 bg"
+msgstr "Сијалица 6 позадина"
+
+msgctxt "#32037"
+msgid "Bulb 7 bg"
+msgstr "Сијалица 7 позадина"
+
+msgctxt "#32038"
+msgid "Bulb 8 bg"
+msgstr "Сијалица 8 позадина"
+
+msgctxt "#32041"
+msgid "Action"
+msgstr "Акција"
+
+msgctxt "#32042"
+msgid "Level"
+msgstr "Ниво"
+
+msgctxt "#32043"
+msgid "Color HEX code"
+msgstr "Боја HEX код"
+
+msgctxt "#32044"
+msgid "Effect"
+msgstr "Ефекат"
+
+msgctxt "#32045"
+msgid "Blink color HEX code"
+msgstr "Боја HEX код трептања"
+
+msgctxt "#32046"
+msgid "YeeMee Ambi service"
+msgstr "YeeMee Амби сервис"
+
+msgctxt "#32047"
+msgid "Turn on/off only if in timeframe"
+msgstr "Укључивати/искључивати само када ја контрола светла активна"
+
+msgctxt "#32048"
+msgid "Bg Action"
+msgstr "Позадинска акција"
+
+msgctxt "#32070"
+msgid "Immediate"
+msgstr "Одмах"
+
+msgctxt "#32071"
+msgid "Smooth"
+msgstr "Полако"
+
+msgctxt "#32072"
+msgid "Transition duration (ms)"
+msgstr "Трајање прелаза (мс)"
+
+msgctxt "#32080"
+msgid "None"
+msgstr "Ништа"
+
+msgctxt "#32081"
+msgid "Off"
+msgstr "Искључити"
+
+msgctxt "#32082"
+msgid "On"
+msgstr "Укључити"
+
+msgctxt "#32083"
+msgid "Return to original state"
+msgstr "Вратити у оригинално стање"
+
+msgctxt "#32084"
+msgid "Blink"
+msgstr "Трептање"
+
+msgctxt "#32085"
+msgid "Blink and On"
+msgstr "Трептање и укључити"
+
+msgctxt "#32090"
+msgid "Disable for short movies"
+msgstr "Не користити за кратке филмове"
+
+msgctxt "#32091"
+msgid "Up to (minutes)"
+msgstr "До (минута)"
+
+msgctxt "#32092"
+msgid "Light control active hours"
+msgstr "Контрола светла активна"
+
+msgctxt "#32093"
+msgid "Light control active from (until 00:00)"
+msgstr "Контрола светла активна од (до 00:00)"
+
+msgctxt "#32094"
+msgid "Light control active until (from 00:00)"
+msgstr "Контрола светла активна до (од 00:00)"
+
+msgctxt "#32095"
+msgid "Turn on at Kodi start"
+msgstr "Укључити при старту Кодија"
+
+msgctxt "#32096"
+msgid "Disable for PVR and live streams"
+msgstr "Не користити за ПВР и лајв стрим"
+
+msgctxt "#32097"
+msgid "YeeMee - Ambi Service Priority"
+msgstr "YeeMee - Ambi сервис приоритет"
+
+msgctxt "#32098"
+msgid "Turn off at Kodi exit"
+msgstr "Искључити на изласку из Кодија"
+
+msgctxt "#32100"
+msgid "This will turn the selected bulb ON for 3 seconds. Press OK to test bulb number "
+msgstr "Ова команда ће укључити изабрану сијалицу на период од 3 секунде. Притисните ОК да тестирате сијалицу број "
+
+msgctxt "#32101"
+msgid "Error while trying to connect to bulb!"
+msgstr "Грешка при покушају повезивања на сијалицу!"
+
+msgctxt "#32102"
+msgid "Report errors"
+msgstr "Јављати грешке"
+
+msgctxt "#32103"
+msgid "Test results:"
+msgstr "Резултат теста:"
+
+msgctxt "#32104"
+msgid "Try to discover bulbs"
+msgstr "Пробај да пронађеш сијалице"
+
+msgctxt "#32105"
+msgid "Unable to discover any bulbs, check connection. This is known sometimes to fail... Make sure the bulbs have developer mode enabled! Please, wait 20 seconds and try again."
+msgstr "Претрага је била неуспешна, проверите да ли је све исправно спојено. Претрага понекад не успе... Проверите да све сијалице имају укључен девелопер мод! Пробајте поново за 20 секунди."
+
+msgctxt "#32106"
+msgid "Add to settings (will overwrite existing!)?"
+msgstr "Додати у подешавања (преписаће постојећа!)?"
+
+msgctxt "#32107"
+msgid "Bulb discovery"
+msgstr "Тражење сијалица"
+
+msgctxt "#32108"
+msgid "Bulb"
+msgstr "Сијалица"
+
+msgctxt "#32109"
+msgid "Model"
+msgstr "Модел"
+
+msgctxt "#32110"
+msgid "Startup"
+msgstr "Старт"
+
+msgctxt "#32111"
+msgid "Disable"
+msgstr "Не користити"
+
+msgctxt "#32112"
+msgid "Active hours"
+msgstr "Активно време"
+
+msgctxt "#32113"
+msgid "Set sunset-sunrise"
+msgstr "Постави залазак-излазак сунца"
+
+msgctxt "#32114"
+msgid "Manual"
+msgstr "Ручно"
+
+msgctxt "#32115"
+msgid "Automatic"
+msgstr "Аутоматски"
+
+msgctxt "#32120"
+msgid "color"
+msgstr "color"
+
+msgctxt "#32121"
+msgid "mono"
+msgstr "mono"
+
+msgctxt "#32122"
+msgid "stripe"
+msgstr "stripe"
+
+msgctxt "#32123"
+msgid "ceiling"
+msgstr "ceiling"
+
+msgctxt "#32124"
+msgid "ceiling4"
+msgstr "ceiling4"
+
+msgctxt "#32125"
+msgid "ct_bulb"
+msgstr "ct_bulb"
+
+msgctxt "#32131"
+msgid "Play"
+msgstr "Пустити"
+
+msgctxt "#32132"
+msgid "Pause"
+msgstr "Пауза"
+
+msgctxt "#32133"
+msgid "Stop"
+msgstr "Стоп"
+
+msgctxt "#32140"
+msgid "Test single bulb(s)"
+msgstr "Тест појединачне сијалице"
+
+msgctxt "#32141"
+msgid "Simulate play functionality"
+msgstr "Симулирај функционалност при пуштању"
+
+msgctxt "#32150"
+msgid "Use as YeeMee Ambi"
+msgstr "Користити у YeeMee Ambi"
+
+msgctxt "#32151"
+msgid "Brightness bias (-%)"
+msgstr "Биас осветљења (-%)"
+
+msgctxt "#32160"
+msgid "Priority on pause"
+msgstr "Приоритет при паузи"
+
+msgctxt "#32161"
+msgid "YeeMee"
+msgstr "YeeMee"
+
+msgctxt "#32162"
+msgid "YeMee Ambi"
+msgstr "YeMee Ambi"
+
+msgctxt "#32163"
+msgid "Max brightness on pause"
+msgstr "Максимално осветљење при паузи"
+
+msgctxt "#32164"
+msgid "Smoothen Ambi effect by (ms)"
+msgstr "Омекшати Амби ефект (мс)"
+
+msgctxt "#32165"
+msgid "Ambi max brightness - day"
+msgstr "Амби макс осветљење - дан"
+
+msgctxt "#32166"
+msgid "Ambi max brightness - civil twilight"
+msgstr "Амби макс осветљење - грађански сумрак"
+
+msgctxt "#32167"
+msgid "Ambi max brightness - nautic twilight"
+msgstr "Амби макс осветљење - наутички сумрак"
+
+msgctxt "#32168"
+msgid "Ambi max brightness - night"
+msgstr "Амби макс осветљење - ноћ"
+
+msgctxt "#32170"
+msgid "Off"
+msgstr "Искључена"
+
+msgctxt "#32171"
+msgid "Whole Screen"
+msgstr "Цели екран"
+
+msgctxt "#32172"
+msgid "Left 1/4"
+msgstr "Лева 1/4"
+
+msgctxt "#32173"
+msgid "Left 1/3"
+msgstr "Лева 1/3"
+
+msgctxt "#32174"
+msgid "Left 1/2"
+msgstr "Лева 1/2"
+
+msgctxt "#32175"
+msgid "Right 1/4"
+msgstr "Десна 1/4"
+
+msgctxt "#32176"
+msgid "Right 1/3"
+msgstr "Десна 1/3"
+
+msgctxt "#32177"
+msgid "Right 1/2"
+msgstr "Десна 1/2"
+
+msgctxt "#32178"
+msgid "Top"
+msgstr "Горња"
+
+msgctxt "#32179"
+msgid "Bottom"
+msgstr "Доња"
+
+msgctxt "#32180"
+msgid "Ambi display options"
+msgstr "Амби могућности"
+
+msgctxt "#32181"
+msgid "Enable Ambi to show options"
+msgstr "Укључи Амби за могућности"
+
+msgctxt "#32186"
+msgid "Ambi precision"
+msgstr "Амби прецизност"
+
+msgctxt "#32187"
+msgid "Regular"
+msgstr "Нормална"
+
+msgctxt "#32188"
+msgid "Better"
+msgstr "Боља"
+
+msgctxt "#32189"
+msgid "High"
+msgstr "Висока"
+
+msgctxt "#32190"
+msgid "Ultra High"
+msgstr "Ултра висока"
+
+msgctxt "#32191"
+msgid "Debug RenderCapture"
+msgstr "Дибаг РендерКепчур"
+
+msgctxt "#32200"
+msgid "Controllers"
+msgstr "Контролери"
+
+msgctxt "#32201"
+msgid "Controller 1"
+msgstr "Контролер 1"
+
+msgctxt "#32202"
+msgid "Controller 2"
+msgstr "Контролер 2"
+
+msgctxt "#32203"
+msgid "Controller 3"
+msgstr "Контролер 3"
+
+msgctxt "#32204"
+msgid "Controller 4"
+msgstr "Контролер 4"
+
+msgctxt "#32210"
+msgid "Send message on"
+msgstr "Пошаљи поруку за"
+
+msgctxt "#32211"
+msgid "Audio"
+msgstr "Аудио"
+
+msgctxt "#32212"
+msgid "Video"
+msgstr "Видео"
+
+msgctxt "#32213"
+msgid "Audio and video"
+msgstr "Аудио и Видео"
+
+msgctxt "#32214"
+msgid "Controller URLs"
+msgstr "URL контролера"
+
+msgctxt "#32215"
+msgid "Open URL on play"
+msgstr "Отвори URL на плеј"
+
+msgctxt "#32216"
+msgid "Open URL on pause"
+msgstr "Отвори URL на паузи"
+
+msgctxt "#32217"
+msgid "Open URL on stop"
+msgstr "Отвори URL на стоп"
+

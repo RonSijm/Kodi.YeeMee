@@ -1,0 +1,506 @@
+# Kodi Media Center language file
+# Addon Name: YeeMee
+# Addon id: service.yeemee
+# Addon Provider: Dalibor Lanik
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Addons\n"
+"Report-Msgid-Bugs-To: https://forum.kodi.tv/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: Team-Kodi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgctxt "#32000"
+msgid "YeeMee Service"
+msgstr "YeeMee služba"
+
+msgctxt "#32001"
+msgid "IP Addresses"
+msgstr "IP Adresa"
+
+msgctxt "#32002"
+msgid "On video play"
+msgstr "Spušteni videa"
+
+msgctxt "#32003"
+msgid "On video stop"
+msgstr "Zastaveni videa"
+
+msgctxt "#32004"
+msgid "On video pause"
+msgstr "Pauze videa"
+
+msgctxt "#32005"
+msgid "Options"
+msgstr "Možnosti"
+
+msgctxt "#32006"
+msgid "Testing"
+msgstr "Testovani"
+
+msgctxt "#32007"
+msgid "Ambi options"
+msgstr "Ambi možnosti"
+
+msgctxt "#32008"
+msgid "On saver start"
+msgstr "Start šetřiče"
+
+msgctxt "#32009"
+msgid "On saver stop"
+msgstr "Konec šetřiče"
+
+msgctxt "#32020"
+msgid "Bulbs"
+msgstr "Žarovky"
+
+msgctxt "#32021"
+msgid "Bulb 1"
+msgstr "Žarovka 1"
+
+msgctxt "#32022"
+msgid "Bulb 2"
+msgstr "Žarovka 2"
+
+msgctxt "#32023"
+msgid "Bulb 3"
+msgstr "Žarovka 3"
+
+msgctxt "#32024"
+msgid "Bulb 4"
+msgstr "Žarovka 4"
+
+msgctxt "#32025"
+msgid "Bulb 5"
+msgstr "Žarovka 5"
+
+msgctxt "#32026"
+msgid "Bulb 6"
+msgstr "Žarovka 6"
+
+msgctxt "#32027"
+msgid "Bulb 7"
+msgstr "Žarovka 7"
+
+msgctxt "#32028"
+msgid "Bulb 8"
+msgstr "Žarovka 8"
+
+msgctxt "#32031"
+msgid "Bulb 1 bg"
+msgstr "Žarovka 1 pozadi"
+
+msgctxt "#32032"
+msgid "Bulb 2 bg"
+msgstr "Žarovka 2 pozadi"
+
+msgctxt "#32033"
+msgid "Bulb 3 bg"
+msgstr "Žarovka 3 pozadi"
+
+msgctxt "#32034"
+msgid "Bulb 4 bg"
+msgstr "Žarovka 4 pozadi"
+
+msgctxt "#32035"
+msgid "Bulb 5 bg"
+msgstr "Žarovka 5 pozadi"
+
+msgctxt "#32036"
+msgid "Bulb 6 bg"
+msgstr "Žarovka 6 pozadi"
+
+msgctxt "#32037"
+msgid "Bulb 7 bg"
+msgstr "Žarovka 7 pozadi"
+
+msgctxt "#32038"
+msgid "Bulb 8 bg"
+msgstr "Žarovka 8 pozadi"
+
+msgctxt "#32041"
+msgid "Action"
+msgstr "Akce"
+
+msgctxt "#32042"
+msgid "Level"
+msgstr "Uroveň"
+
+msgctxt "#32043"
+msgid "Color HEX code"
+msgstr "Barva HEX kod"
+
+msgctxt "#32044"
+msgid "Effect"
+msgstr "Efekt"
+
+msgctxt "#32045"
+msgid "Blink color HEX code"
+msgstr "Barva HEX kod blikani"
+
+msgctxt "#32046"
+msgid "YeeMee Ambi service"
+msgstr "YeeMee Ambi služba"
+
+msgctxt "#32047"
+msgid "Turn on/off only if in timeframe"
+msgstr "Zapinat/vypinat jen když je kontrola světla aktivni"
+
+msgctxt "#32048"
+msgid "Bg Action"
+msgstr "Akce pozadi"
+
+msgctxt "#32070"
+msgid "Immediate"
+msgstr "Hned"
+
+msgctxt "#32071"
+msgid "Smooth"
+msgstr "Pomalu"
+
+msgctxt "#32072"
+msgid "Transition duration (ms)"
+msgstr "Delka přechodu (ms)"
+
+msgctxt "#32080"
+msgid "None"
+msgstr "Žadna"
+
+msgctxt "#32081"
+msgid "Off"
+msgstr "Vypnout"
+
+msgctxt "#32082"
+msgid "On"
+msgstr "Zapnout"
+
+msgctxt "#32083"
+msgid "Return to original state"
+msgstr "Vratit do puvodniho stavu"
+
+msgctxt "#32084"
+msgid "Blink"
+msgstr "Blikat"
+
+msgctxt "#32085"
+msgid "Blink and On"
+msgstr "Blikat a zapnout"
+
+msgctxt "#32090"
+msgid "Disable for short movies"
+msgstr "Nepouživat pro krátke filmy"
+
+msgctxt "#32091"
+msgid "Up to (minutes)"
+msgstr "Až do (minut)"
+
+msgctxt "#32092"
+msgid "Light control active hours"
+msgstr "Kontrola světla aktivni"
+
+msgctxt "#32093"
+msgid "Light control active from (until 00:00)"
+msgstr "Kontrola světla aktivni od (do 00:00)"
+
+msgctxt "#32094"
+msgid "Light control active until (from 00:00)"
+msgstr "Kontrola světla aktivni do (od 00:00)"
+
+msgctxt "#32095"
+msgid "Turn on at Kodi start"
+msgstr "Zapnout při startu Kodi"
+
+msgctxt "#32096"
+msgid "Disable for PVR and live streams"
+msgstr "Nepouživat pro PVR a žive vysilani"
+
+msgctxt "#32097"
+msgid "YeeMee - Ambi Service Priority"
+msgstr "YeeMee - Ambi Servis Priorita"
+
+msgctxt "#32098"
+msgid "Turn off at Kodi exit"
+msgstr "Vyponout při ukončeni Kodi"
+
+msgctxt "#32100"
+msgid "This will turn the selected bulb ON for 3 seconds. Press OK to test bulb number "
+msgstr "Tato funkce zapne vybranou žarovku na 3 vteřiny. Zmačněte OK pro otestovani žarovky čislo "
+
+msgctxt "#32101"
+msgid "Error while trying to connect to bulb!"
+msgstr "Chyba při pokusu navazani spojeni na žarovku!"
+
+msgctxt "#32102"
+msgid "Report errors"
+msgstr "Hlásit chyby"
+
+msgctxt "#32103"
+msgid "Test results:"
+msgstr "Vysledky testu:"
+
+msgctxt "#32104"
+msgid "Try to discover bulbs"
+msgstr "Pokus se vyhledat žarovky"
+
+msgctxt "#32105"
+msgid "Unable to discover any bulbs, check connection. This is known sometimes to fail... Make sure the bulbs have developer mode enabled! Please, wait 20 seconds and try again."
+msgstr "Neopdařilo se vyhledat žádne žárovky, ověřte konektivitu. Toto se občas stava... Ujistite se že žarovky maji povolen developer mod! Počkejte 20 vteřin a zkuste to znovu."
+
+msgctxt "#32106"
+msgid "Add to settings (will overwrite existing!)?"
+msgstr "Přidat do nastavení (přepiše existujici!)?"
+
+msgctxt "#32107"
+msgid "Bulb discovery"
+msgstr "Vyhledavani žarovek"
+
+msgctxt "#32108"
+msgid "Bulb"
+msgstr "Žárovka"
+
+msgctxt "#32109"
+msgid "Model"
+msgstr "Modél"
+
+msgctxt "#32110"
+msgid "Startup"
+msgstr "Start"
+
+msgctxt "#32111"
+msgid "Disable"
+msgstr "Nepouživat"
+
+msgctxt "#32112"
+msgid "Active hours"
+msgstr "Aktivni hodiny"
+
+msgctxt "#32113"
+msgid "Set sunset-sunrise"
+msgstr "Nastavit západ-východ slunce"
+
+msgctxt "#32114"
+msgid "Manual"
+msgstr "Manualně"
+
+msgctxt "#32115"
+msgid "Automatic"
+msgstr "Automaticky"
+
+msgctxt "#32120"
+msgid "color"
+msgstr "color"
+
+msgctxt "#32121"
+msgid "mono"
+msgstr "mono"
+
+msgctxt "#32122"
+msgid "stripe"
+msgstr "stripe"
+
+msgctxt "#32123"
+msgid "ceiling"
+msgstr "ceiling"
+
+msgctxt "#32124"
+msgid "ceiling4"
+msgstr "ceiling4"
+
+msgctxt "#32125"
+msgid "ct_bulb"
+msgstr "ct_bulb"
+
+msgctxt "#32131"
+msgid "Play"
+msgstr "Přehravat"
+
+msgctxt "#32132"
+msgid "Pause"
+msgstr "Pauzа"
+
+msgctxt "#32133"
+msgid "Stop"
+msgstr "Stop"
+
+msgctxt "#32140"
+msgid "Test single bulb(s)"
+msgstr "Test jednotlive žarovky"
+
+msgctxt "#32141"
+msgid "Simulate play functionality"
+msgstr "Simulace funkcionality při přehravani"
+
+msgctxt "#32150"
+msgid "Use as YeeMee Ambi"
+msgstr "Použivat v YeeMee Ambi"
+
+msgctxt "#32151"
+msgid "Brightness bias (-%)"
+msgstr "Bias jasu (-%)"
+
+msgctxt "#32160"
+msgid "Priority on pause"
+msgstr "Priorita při pauze"
+
+msgctxt "#32161"
+msgid "YeeMee"
+msgstr "YeeMee"
+
+msgctxt "#32162"
+msgid "YeeMee Ambi"
+msgstr "YeeMee Ambi"
+
+msgctxt "#32163"
+msgid "Max brightness on pause"
+msgstr "Maximalni jas při pauze"
+
+msgctxt "#32164"
+msgid "Smoothen Ambi effect by (ms)"
+msgstr "Zjemnit Ambi efekt (ms)"
+
+msgctxt "#32165"
+msgid "Ambi max brightness - day"
+msgstr "Ambi max jas - den"
+
+msgctxt "#32166"
+msgid "Ambi max brightness - civil twilight"
+msgstr "Ambi max jas - občanský soumrak"
+
+msgctxt "#32167"
+msgid "Ambi max brightness - nautic twilight"
+msgstr "Ambi max jas - nautický soumrak"
+
+msgctxt "#32168"
+msgid "Ambi max brightness - night"
+msgstr "Ambi max jas - noc"
+
+msgctxt "#32170"
+msgid "Off"
+msgstr "Vypnuta"
+
+msgctxt "#32171"
+msgid "Whole Screen"
+msgstr "Celá obrazovka"
+
+msgctxt "#32172"
+msgid "Left 1/4"
+msgstr "Levá 1/4"
+
+msgctxt "#32173"
+msgid "Left 1/3"
+msgstr "Levá 1/3"
+
+msgctxt "#32174"
+msgid "Left 1/2"
+msgstr "Levá 1/2"
+
+msgctxt "#32175"
+msgid "Right 1/4"
+msgstr "Pravá 1/4"
+
+msgctxt "#32176"
+msgid "Right 1/3"
+msgstr "Pravá 1/3"
+
+msgctxt "#32177"
+msgid "Right 1/2"
+msgstr "Pravá 1/2"
+
+msgctxt "#32178"
+msgid "Top"
+msgstr "Horní"
+
+msgctxt "#32179"
+msgid "Bottom"
+msgstr "Spodní"
+
+msgctxt "#32180"
+msgid "Ambi display options"
+msgstr "Ambi možnosti"
+
+msgctxt "#32181"
+msgid "Enable Ambi to show options"
+msgstr "Zapněte Ambi pro možnosti"
+
+msgctxt "#32186"
+msgid "Ambi precision"
+msgstr "Ambi přesnost"
+
+msgctxt "#32187"
+msgid "Regular"
+msgstr "Normalni"
+
+msgctxt "#32188"
+msgid "Better"
+msgstr "Lepši"
+
+msgctxt "#32189"
+msgid "High"
+msgstr "Vysoka"
+
+msgctxt "#32190"
+msgid "Ultra High"
+msgstr "Ultra vysoka"
+
+msgctxt "#32191"
+msgid "Debug RenderCapture"
+msgstr "Debug RenderCapture"
+
+msgctxt "#32200"
+msgid "Controllers"
+msgstr "Kontrolery"
+
+msgctxt "#32201"
+msgid "Controller 1"
+msgstr "Kontroler 1"
+
+msgctxt "#32202"
+msgid "Controller 2"
+msgstr "Kontroler 2"
+
+msgctxt "#32203"
+msgid "Controller 3"
+msgstr "Kontroler 3"
+
+msgctxt "#32204"
+msgid "Controller 4"
+msgstr "Kontroler 4"
+
+msgctxt "#32210"
+msgid "Send message on"
+msgstr "Pošli zpravu pro"
+
+msgctxt "#32211"
+msgid "Audio"
+msgstr "Audio"
+
+msgctxt "#32212"
+msgid "Video"
+msgstr "Video"
+
+msgctxt "#32213"
+msgid "Audio and video"
+msgstr "Audio a video"
+
+msgctxt "#32214"
+msgid "Controller URLs"
+msgstr "URL Kontroleru"
+
+msgctxt "#32215"
+msgid "Open URL on play"
+msgstr "Otevřit URL při play"
+
+msgctxt "#32216"
+msgid "Open URL on pause"
+msgstr "Otevřit URL při pauze"
+
+msgctxt "#32217"
+msgid "Open URL on stop"
+msgstr "Otevřit URL při stop"
+
